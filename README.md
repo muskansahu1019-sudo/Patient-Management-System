@@ -1,1 +1,1 @@
-# Patient-Management-System
+Patient Management System is a C++ and Streamlit-based application for managing patient records. It allows users to create, view, search, update, delete, and sort patient data while automatically calculating BMI and providing a health verdict. The project demonstrates CRUD operations, file handling, and an interactive web interface for efficient patient record management.
